@@ -696,3 +696,11 @@ body.fx-backstretch .backstretch {
 .subtitle3 {
 	padding-left: 20px;
 }
+
+ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+li {
+    margin-left: 1em;
+}
